@@ -29,11 +29,11 @@
     ],
     "require": {
         "php": "^8.1",
-        "behat/mink": "~1.7@dev",
-        "php-webdriver/webdriver": "^1.4"
+        "behat/mink": "^1.10.0",
+        "php-webdriver/webdriver": "^1.12.1"
     },
     "require-dev": {
-        "squizlabs/php_codesniffer": "^3.5"
+        "squizlabs/php_codesniffer": "^3.7"
     },
     "autoload": {
         "psr-4": {
